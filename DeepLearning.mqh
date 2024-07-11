@@ -488,6 +488,9 @@ return D;
 }
 
 #include <DenseLayer.mqh>
+#include <DropoutLayer.mqh>
+#include <ActivationLayer.mqh>
+#include <Metrics.mqh>
 #include <Loss.mqh>
 
 
