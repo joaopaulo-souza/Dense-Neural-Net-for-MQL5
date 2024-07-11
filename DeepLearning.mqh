@@ -300,6 +300,7 @@ return D;
 #include <DenseLayer.mqh>
 #include <DropoutLayer.mqh>
 #include <ActivationLayer.mqh>
+#include <SoftmaxLayer.mqh> 
 #include <Metrics.mqh>
 #include <Loss.mqh>
 
